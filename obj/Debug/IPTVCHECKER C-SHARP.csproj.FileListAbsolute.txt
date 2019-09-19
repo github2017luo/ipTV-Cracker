@@ -1,0 +1,9 @@
+c:\users\hacı usta\documents\visual studio 2013\Projects\IPTVCHECKER C-SHARP\IPTVCHECKER C-SHARP\bin\Debug\IPTVCHECKER C-SHARP.exe.config
+c:\users\hacı usta\documents\visual studio 2013\Projects\IPTVCHECKER C-SHARP\IPTVCHECKER C-SHARP\bin\Debug\IPTVCHECKER C-SHARP.exe
+c:\users\hacı usta\documents\visual studio 2013\Projects\IPTVCHECKER C-SHARP\IPTVCHECKER C-SHARP\bin\Debug\IPTVCHECKER C-SHARP.pdb
+c:\users\hacı usta\documents\visual studio 2013\Projects\IPTVCHECKER C-SHARP\IPTVCHECKER C-SHARP\obj\Debug\IPTVCHECKER C-SHARP.csprojResolveAssemblyReference.cache
+c:\users\hacı usta\documents\visual studio 2013\Projects\IPTVCHECKER C-SHARP\IPTVCHECKER C-SHARP\obj\Debug\IPTVCHECKER_C_SHARP.Form1.resources
+c:\users\hacı usta\documents\visual studio 2013\Projects\IPTVCHECKER C-SHARP\IPTVCHECKER C-SHARP\obj\Debug\IPTVCHECKER_C_SHARP.Properties.Resources.resources
+c:\users\hacı usta\documents\visual studio 2013\Projects\IPTVCHECKER C-SHARP\IPTVCHECKER C-SHARP\obj\Debug\IPTVCHECKER C-SHARP.csproj.GenerateResource.Cache
+c:\users\hacı usta\documents\visual studio 2013\Projects\IPTVCHECKER C-SHARP\IPTVCHECKER C-SHARP\obj\Debug\IPTVCHECKER C-SHARP.exe
+c:\users\hacı usta\documents\visual studio 2013\Projects\IPTVCHECKER C-SHARP\IPTVCHECKER C-SHARP\obj\Debug\IPTVCHECKER C-SHARP.pdb
