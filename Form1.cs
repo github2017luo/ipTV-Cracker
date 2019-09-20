@@ -136,15 +136,27 @@ namespace IPTVCHECKER_C_SHARP
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog file = new OpenFileDialog();
+            file.Filter = "Text files |*.txt";
+            file.ShowDialog();
+            string DosyaYolu = file.FileName;
+            string DosyaAdi = file.SafeFileName;
+
             Form1.accounts = new List<string>();
-            Form1.LoadCombos("C:\\combo\\combo.txt");
-            string[] combo = File.ReadAllLines("C:\\combo\\combo.txt");
+            Form1.LoadCombos(DosyaYolu);
+            string[] combo = File.ReadAllLines(DosyaYolu);
 
             for (int i = 0; i < Form1.total; i++)
             {
                 Form1.accounts.Add(combo[i]);
             }
-
+            MessageBox.Show("Loaded!", "ipTV Cracker", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
