@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("IPTVCHECKER C-SHARP")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("IPTVCHECKER")]
+[assembly: AssemblyDescription("IpTV Checker")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("IPTVCHECKER C-SHARP")]
+[assembly: AssemblyCompany("Yusuf Usta")]
+[assembly: AssemblyProduct("IPTVCHECKER")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
